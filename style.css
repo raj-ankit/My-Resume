@@ -1,0 +1,33 @@
+h1
+{
+  color: #7D1E6A;
+}
+h2
+{
+  color: #7D1E6A;
+}
+h3
+{
+  color: #7D1E6A;
+}
+h4
+{
+  color: #7D1E6A;
+}
+h5
+{
+  color: #7D1E6A;
+}
+body
+{
+  background-color: #B3E8E5;
+  color: #006E7F;
+}
+hr                                /* Styling used in hr element will reflect in all hr element present in body(HTML code) */
+{
+  height: 0px;
+  width: 4%;
+  border-style: dotted none none none;    /* 4 times "border style" property can be used for Top,Right,Bottom,Left respectively */
+  border-color:grey;
+  border-width:5px;
+}
